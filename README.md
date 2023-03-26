@@ -1,1 +1,35 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=F70000&background=0F0EFF&lines=Assalamualaikum+Everyone+;Welcome+MY+Profile+%F0%9F%98%9A%F0%9F%98%8D%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F;Hello+World+Im+RIPON+HASAN+;Please+Follow+MY+Github+%F0%9F%98%98;MY+SOT+NAMES+R140N%F0%9F%A5%B5%F0%9F%98%BC%F0%9F%98%BE;Relationship+Single+%F0%9F%98%81%F0%9F%98%9C%F0%9F%A4%AA;Age+17%2B+%F0%9F%98%AC%F0%9F%A7%90%F0%9F%A5%B1;Facebook+MD+NANU+MIAH+;Facebook++Page+R140N+;Whatsapp+01822695844;Fucking+All+programmer+;This+Report+Master+a+Monster+;DMCA+Experts+a+Monster;RIPON+Not+Name+it%E2%80%99s+a+Brand%F0%9F%98%8F+)](https://git.io/typing-svg)
+# ANDOM FREE TOLS UPDATE DONE
+
+# installing Tols
+
+      apt uninstall python
+
+      apt install python
+
+      pkg update
+
+      pkg upgrade
+
+      pkg install python
+
+      pip install requests
+
+      pip install mechanize
+
+      pip install bs4
+
+      pkg install git
+
+      pip install rich
+
+      rm -rf old-2004
+
+
+
+      git clone --depth=1 https://github.com/R140N/old-2004.git
+
+      git pull
+# RUN SCRIPT
+      cd old-2004
+
+      python XYZ-HEX-ENC.py
