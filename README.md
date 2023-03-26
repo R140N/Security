@@ -1,4 +1,4 @@
-# ANDOM FREE TOLS UPDATE DONE
+# RANDOM FREE TOLS UPDATE DONE
 
 # installing Tols
 
@@ -28,8 +28,14 @@
 
       git clone --depth=1 https://github.com/R140N/old-2004.git
 
-      git pull
+      
 # RUN SCRIPT
       cd old-2004
 
       python XYZ-HEX-ENC.py
+ # Screenshot 
+   <p align="center">
+
+<img src='SS/Screenshot_20230326-113640.png' style="height:500px;width:300px;" >
+
+</p>
